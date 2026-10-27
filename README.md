@@ -1,5 +1,5 @@
 # My Profile
 ## About ME
-- Nicknname: Earth
+- Nickname: Earth
 - Major: Computer science
 - Year: 1
